@@ -1,0 +1,832 @@
+code	QoS	longitude	revision	location	latitude
+CN	good	117.33333	03/21/2024, 00:00:00	Asia/Shanghai	34.85
+IT	good	13.57661	2022/02/24	Europe/Rome	37.31065
+US	excellent	-82.07842	16 Dec 2021	America/New_York	26.91756
+BR	good	-35.71667	09 Feb 2020	America/Recife	-8.66667
+UA	good	36.25361	2019/01/30	Europe/Zaporozhye	47.48444
+PH	good	120.89694	30 May 2021	Asia/Manila	14.95472
+MX	excellent	-97.50417	2022/05/06	America/Matamoros	25.87972
+CH	good	8.52462	12/20/2022, 00:00:00	Europe/Zurich	47.30997
+BR	good	-58.44417	30 Nov 2015	America/Manaus	-3.14306
+LT	acceptable	24.04142	31 Jan 2023	Europe/Vilnius	54.39635
+KE	good	34.11169	01/05/2020, 00:00:00	Africa/Nairobi	0.46005
+US	excellent	-86.99666	09/29/2020, 00:00:00	America/Chicago	33.45122
+TD	good	18.69303	01/30/2016, 00:00:00	Africa/Ndjamena	12.18441
+SE	good	18.28333	26 Dec 2023	Europe/Stockholm	59.33333
+GB	acceptable	-0.36053	02/25/2022, 00:00:00	Europe/London	51.64316
+BE	good	5.37429	2017-08-02	Europe/Brussels	51.03427
+ID	good	112.23109	03/05/2022, 00:00:00	Asia/Jakarta	-7.57897
+CO	good	-73.9614	2019/05/11	America/Bogota	10.15031
+US	good	-74.38987	2017/11/06	America/New_York	40.65538
+MX	good	-98.11889	12 Jan 2016	America/Mexico_City	19.04222
+ID	good	116.82887	2022-07-21	Asia/Makassar	-1.26753
+US	excellent	-82.61573	12/25/2019, 00:00:00	America/New_York	41.24255
+MA	good	-6.90656	07 Dec 2019	Africa/Casablanca	33.92866
+PE	maintenance	-69.08333	2020/04/26	America/Lima	-16.25
+FR	maintenance	2.61667	2021/06/19	Europe/Paris	48.98333
+DE	good	12.16179	11/25/2024, 00:00:00	Europe/Berlin	48.52961
+IT	excellent	7.60872	03/22/2016, 00:00:00	Europe/Rome	43.78956
+US	excellent	-84.23381	2025-07-04	America/New_York	33.54428
+ID	acceptable	112.23109	22 Mar 2018	Asia/Jakarta	-7.57897
+ID	good	114.33333	2021-06-23	Asia/Jakarta	-8.43333
+PK	excellent	73.38333	2017/07/14	Asia/Karachi	31.71667
+IN	good	79.41727	2019-03-07	Asia/Kolkata	12.25282
+DE	good	10.03988	08/03/2022, 00:00:00	Europe/Berlin	53.6052
+IT	maintenance	13.57661	08 Sep 2025	Europe/Rome	37.31065
+US	acceptable	-105.11221	09/21/2017, 00:00:00	America/Denver	39.57582
+DE	good	9.17702	11/07/2018, 00:00:00	Europe/Berlin	48.78232
+TH	excellent	100.48528	2019-06-18	Asia/Bangkok	14.37395
+US	good	-123.02621	15 Mar 2021	America/Los_Angeles	44.99012
+DE	good	9.15214	2017/08/06	Europe/Berlin	49.97704
+IN	excellent	75.92694	2024-06-17	Asia/Kolkata	14.46693
+IT	good	14.34085	2015-12-30	Europe/Rome	40.87363
+IT	excellent	12.70038	2025-07-31	Europe/Rome	45.9836
+PH	good	120.4861	2023/02/12	Asia/Manila	16.0438
+MX	acceptable	-98.11889	2024/10/10	America/Mexico_City	19.04222
+US	maintenance	-87.93341	2018/12/02	America/Chicago	42.55308
+PT	acceptable	-8.2503	2018/08/22	Europe/Lisbon	37.08819
+TZ	excellent	38.66667	05 Sep 2024	Africa/Dar_es_Salaam	-6.25
+TR	maintenance	34.37389	2017-04-08	Europe/Istanbul	40.1675
+BG	good	27.25	2023/09/24	Europe/Sofia	42.7
+RU	excellent	37.38115	2020-01-29	Europe/Moscow	55.63711
+US	acceptable	-122.23484	2024/09/29	America/Los_Angeles	47.38093
+RU	acceptable	53.47103	04/26/2019, 00:00:00	Asia/Yekaterinburg	54.48147
+IR	good	48.26258	2019-07-02	Asia/Tehran	33.86419
+CN	excellent	122.08333	2015/11/10	Asia/Shanghai	46.08333
+LY	excellent	10.18003	12/25/2018, 00:00:00	Africa/Tripoli	24.96334
+CN	acceptable	117.55417	06/07/2017, 00:00:00	Asia/Shanghai	34.86472
+RO	excellent	26.01649	2015-10-16	Europe/Bucharest	44.43579
+CN	excellent	122.08333	09/15/2018, 00:00:00	Asia/Shanghai	46.08333
+US	acceptable	-94.74049	07/29/2018, 00:00:00	America/Chicago	32.5007
+PH	excellent	121.06761	04/05/2017, 00:00:00	Asia/Manila	12.35275
+CR	excellent	-85.43772	2018/03/30	America/Costa_Rica	10.63504
+MX	good	-100.88023	15 Oct 2017	America/Mexico_City	20.21322
+MK	excellent	21.32778	12/19/2021, 00:00:00	Europe/Skopje	42
+FR	excellent	4.91667	03/14/2025, 00:00:00	Europe/Paris	45.73333
+TZ	good	35.7	2017-08-29	Africa/Dar_es_Salaam	-7.76667
+FI	good	24.6522	30 Aug 2022	Europe/Helsinki	60.2052
+ES	good	-4.10734	03/09/2018, 00:00:00	Europe/Madrid	38.68712
+IN	good	76.0586	22 Feb 2025	Asia/Kolkata	16.06213
+PS	excellent	35.23388	2023/03/12	Asia/Hebron	31.78336
+NG	acceptable	8.2926	2020/12/10	Africa/Lagos	9.58126
+CD	excellent	29.47306	11/11/2017, 00:00:00	Africa/Lubumbashi	0.49113
+US	excellent	-81.23621	2024-12-23	America/New_York	33.98154
+TH	acceptable	103.65309	2019/06/18	Asia/Bangkok	16.0567
+US	good	-78.19444	2024-11-15	America/New_York	38.91817
+TZ	good	33	2022-12-26	Africa/Dar_es_Salaam	-2.68333
+DE	excellent	9.17702	07 Dec 2018	Europe/Berlin	48.78232
+BD	good	89.11943	2020-10-18	Asia/Dhaka	23.9028
+DE	acceptable	8.63333	07/23/2019, 00:00:00	Europe/Berlin	52.2
+PH	good	120.97844	08/28/2017, 00:00:00	Asia/Manila	14.8361
+US	good	-71.29144	2019/08/20	America/New_York	41.54566
+IN	good	84.63445	05/15/2021, 00:00:00	Asia/Kolkata	24.81757
+MK	excellent	21.32778	07 Mar 2023	Europe/Skopje	42
+RS	good	19.61222	2020-11-27	Europe/Belgrade	44.97639
+DZ	excellent	4.85668	15 Jun 2018	Africa/Algiers	36.27462
+AU	good	145.13643	25 Oct 2016	Australia/Melbourne	-38.16604
+GN	good	-13.68778	2016/12/03	Africa/Conakry	9.535
+PK	excellent	71.52847	2021/10/24	Asia/Karachi	32.57756
+CN	excellent	117.27583	2020/05/15	Asia/Shanghai	35.64889
+US	excellent	-95.36969	2020/12/21	America/Chicago	35.74788
+CA	acceptable	-63.13414	10/18/2019, 00:00:00	America/Halifax	46.23899
+PR	good	-67.15407	02/13/2018, 00:00:00	America/Puerto_Rico	18.42745
+IN	good	72.85107	2017-02-20	Asia/Kolkata	19.30157
+ZA	good	30.79165	03 Apr 2017	Africa/Johannesburg	-27.76952
+US	acceptable	-122.39168	09/20/2024, 00:00:00	America/Los_Angeles	40.58654
+US	excellent	-71.08977	10/02/2016, 00:00:00	America/New_York	41.9001
+RU	good	37.49338	06/25/2021, 00:00:00	Europe/Moscow	55.62047
+CN	good	117.81667	2022-07-06	Asia/Shanghai	36.81667
+TZ	good	38.66667	2025-07-28	Africa/Dar_es_Salaam	-6.25
+PL	good	19.27498	2016/02/17	Europe/Warsaw	50.20528
+CN	good	122.74754	07/14/2025, 00:00:00	Asia/Shanghai	40.85158
+UA	good	27.06365	2016-03-30	Europe/Kyiv	50.18545
+CZ	acceptable	15.006139	2019/06/13	Europe/Prague	49.144482
+AU	good	145.13643	06/14/2024, 00:00:00	Australia/Melbourne	-38.16604
+DE	good	8.86704	30 Nov 2023	Europe/Berlin	50.23805
+DE	acceptable	7.2278	2025/06/13	Europe/Berlin	50.64336
+CN	acceptable	117.55417	2024/05/14	Asia/Shanghai	34.86472
+US	excellent	-71.05977	08/17/2022, 00:00:00	America/New_York	42.35843
+IN	good	77.40858	12/12/2017, 00:00:00	Asia/Kolkata	24.05979
+MA	good	-6.90656	15 Dec 2023	Africa/Casablanca	33.92866
+PH	good	123.89071	2021-11-24	Asia/Manila	10.31672
+UA	good	26.97253	02/24/2022, 00:00:00	Europe/Kyiv	49.65186
+IN	acceptable	74.83554	2020-11-04	Asia/Kolkata	14.62072
+US	good	-73.9625	2015/10/25	America/New_York	40.81
+US	good	-73.47429	12/07/2020, 00:00:00	America/New_York	40.68066
+MN	good	106.88324	13 Jul 2016	Asia/Ulaanbaatar	47.90771
+NG	good	5.06258	2023-12-29	Africa/Lagos	7.50251
+BJ	good	2.59753	2022-01-02	Africa/Porto-Novo	8.88649
+PT	excellent	-7.32097	2018-06-04	Europe/Lisbon	41.1053
+MG	excellent	48.41667	2025-05-24	Indian/Antananarivo	-17.83333
+ID	acceptable	112.23109	07 May 2023	Asia/Jakarta	-7.57897
+US	good	-82.32483	2022/04/21	America/New_York	29.65163
+IT	good	13.57661	2020-03-14	Europe/Rome	37.31065
+RS	acceptable	22.53083	07 Jan 2025	Europe/Belgrade	44.22639
+UA	maintenance	27.06365	08/10/2016, 00:00:00	Europe/Kyiv	50.18545
+AR	good	-61.4867	05/18/2024, 00:00:00	America/Argentina/Cordoba	-31.25033
+TH	excellent	99.95469	16 Oct 2020	Asia/Bangkok	13.51825
+ES	good	-1.86343	07/17/2022, 00:00:00	Europe/Madrid	38.10558
+US	maintenance	-88.70464	2021/06/24	America/Chicago	34.25807
+PE	acceptable	-69.08333	09/13/2022, 00:00:00	America/Lima	-16.25
+AT	excellent	15.46667	2022/05/12	Europe/Vienna	47.05
+PT	acceptable	-8.2503	2022/11/05	Europe/Lisbon	37.08819
+MX	good	-98.11889	2016-01-09	America/Mexico_City	19.04222
+US	excellent	-119.0376	2020-01-26	America/Los_Angeles	34.21639
+IN	good	86.79271	2025-02-21	Asia/Kolkata	25.92127
+ZA	good	29.24152	2022-03-31	Africa/Johannesburg	-26.93366
+DE	good	6.8625	2024-05-16	Europe/Berlin	51.47805
+RU	good	36.73307	10 Feb 2020	Europe/Moscow	55.38752
+IT	excellent	16.50104	2019-07-25	Europe/Rome	41.24264
+TH	excellent	102.42587	2025-03-20	Asia/Bangkok	15.58552
+IN	good	88.18466	2021/01/02	Asia/Kolkata	22.19303
+US	good	-87.65644	16 Dec 2020	America/Chicago	41.80753
+US	excellent	-122.2054	2022-11-10	America/Los_Angeles	47.76232
+UZ	acceptable	72.34424	07/27/2020, 00:00:00	Asia/Tashkent	40.78206
+IL	excellent	34.86563	2025-08-29	Asia/Jerusalem	31.92923
+CI	excellent	-3.59625	2023/08/14	Africa/Abidjan	5.27247
+CN	good	117.33333	2020/04/08	Asia/Shanghai	34.85
+TR	excellent	41.00817	2023/08/02	Europe/Istanbul	38.13708
+ES	excellent	0.57856	10/21/2021, 00:00:00	Europe/Madrid	40.70995
+RU	excellent	37.92792	29 Jan 2025	Europe/Moscow	53.93361
+IT	good	8.55552	01/14/2020, 00:00:00	Europe/Rome	40.72586
+GB	acceptable	-4.22398	09/27/2018, 00:00:00	Europe/London	57.47908
+RU	acceptable	34.34691	2023/08/18	Europe/Moscow	61.78491
+DE	acceptable	9.85	2015-10-06	Europe/Berlin	53.63333
+US	good	-78.87836	2019-08-09	America/New_York	35.05266
+IT	good	12.84052	2025-09-11	Europe/Rome	45.78071
+HR	good	16.43915	04 Aug 2018	Europe/Zagreb	43.50891
+DE	good	8.77155	18 Feb 2018	Europe/Berlin	50.23019
+CL	excellent	-71.23106	04 Apr 2025	America/Santiago	-32.45242
+PT	good	-8.2503	23 Mar 2022	Europe/Lisbon	37.08819
+RU	excellent	34.33825	2022-07-16	Europe/Moscow	53.59782
+CZ	excellent	13.63617	2018/05/03	Europe/Prague	50.50301
+AR	good	-61.4867	2024/10/21	America/Argentina/Cordoba	-31.25033
+RU	good	37.56667	06/15/2024, 00:00:00	Europe/Moscow	55.85
+CR	good	-84.13722	04/10/2019, 00:00:00	America/Costa_Rica	9.92787
+NG	excellent	12.19458	15 Mar 2023	Africa/Lagos	10.61285
+GB	good	-0.33525	28 Jul 2018	Europe/London	53.7446
+CA	good	-73.81669	16 Apr 2021	America/Toronto	45.44868
+US	excellent	-74.13653	01/16/2022, 00:00:00	America/New_York	40.63316
+CN	acceptable	105.89333	2016-10-14	Asia/Shanghai	34.56861
+LT	good	24.04142	2018/10/31	Europe/Vilnius	54.39635
+BR	good	-48.67028	03 Feb 2025	America/Sao_Paulo	-28.24
+IN	excellent	85.37752	14 Mar 2018	Asia/Kolkata	22.10194
+IN	good	78.14797	11/26/2019, 00:00:00	Asia/Kolkata	15.45144
+IN	acceptable	82.85749	2015-11-25	Asia/Kolkata	17.54907
+CO	excellent	-77.03116	2018-11-18	America/Bogota	3.8801
+PR	excellent	-66.8499	2024/08/09	America/Puerto_Rico	18.03496
+US	good	-69.96533	09/27/2023, 00:00:00	America/New_York	43.91452
+IN	acceptable	74.83554	12/14/2017, 00:00:00	Asia/Kolkata	14.62072
+BR	excellent	-58.44417	07 Apr 2017	America/Manaus	-3.14306
+UA	good	38.15035	08/02/2025, 00:00:00	Europe/Zaporozhye	49.41029
+RU	excellent	43.91385	2024-07-18	Europe/Moscow	54.03876
+MG	good	48.41667	2022/09/17	Indian/Antananarivo	-17.83333
+FR	good	8.73812	2021/06/27	Europe/Paris	41.91886
+TR	good	34.37389	29 Dec 2018	Europe/Istanbul	40.1675
+GB	good	-4.0573	2017-06-17	Europe/London	55.82737
+IN	good	78.40102	2023/12/05	Asia/Kolkata	27.9247
+IT	excellent	12.70038	07/19/2021, 00:00:00	Europe/Rome	45.9836
+CO	good	-73.9614	26 Jun 2019	America/Bogota	10.15031
+BR	acceptable	-37.07167	2019-08-03	America/Maceio	-10.91111
+US	acceptable	-117.79394	2022-10-05	America/Los_Angeles	33.76446
+IL	good	34.8732	2017-06-20	Asia/Jerusalem	32.05971
+US	excellent	-119.01677	2017-05-18	America/Los_Angeles	36.06523
+IN	good	78.40102	2015/10/28	Asia/Kolkata	27.9247
+TZ	acceptable	33	27 Jun 2024	Africa/Dar_es_Salaam	-2.68333
+AF	excellent	65.93249	2020/01/03	Asia/Kabul	36.21544
+MX	acceptable	-94.91386	2020/02/12	America/Mexico_City	17.94979
+MA	excellent	-6.90656	08 Nov 2021	Africa/Casablanca	33.92866
+DE	excellent	6.74549	2016/10/03	Europe/Berlin	49.5099
+TZ	acceptable	37.73333	31 Jul 2016	Africa/Dar_es_Salaam	-4.06667
+BW	good	27.46153	09/02/2020, 00:00:00	Africa/Gaborone	-21.44236
+PK	good	68.21204	2025-03-11	Asia/Karachi	27.55898
+IL	good	34.75699	30 Aug 2020	Asia/Jerusalem	31.39547
+DE	good	6.26667	05/29/2019, 00:00:00	Europe/Berlin	51.21667
+PK	good	70.91106	2018-08-25	Asia/Karachi	29.38242
+US	excellent	-74.15987	04/22/2018, 00:00:00	America/New_York	40.82232
+CN	good	122.05228	2021-11-24	Asia/Shanghai	37.19723
+PH	excellent	123.89071	12/22/2023, 00:00:00	Asia/Manila	10.31672
+RU	excellent	46.5813	2025-05-05	Europe/Moscow	54.8421
+SV	good	-89.71472	2020/08/02	America/El_Salvador	13.73417
+DE	acceptable	8.70745	05 Oct 2020	Europe/Berlin	49.03685
+US	good	-76.88442	10 Dec 2019	America/New_York	40.2737
+ES	good	0.57856	2025-07-30	Europe/Madrid	40.70995
+SY	excellent	38.28402	09/29/2023, 00:00:00	Asia/Damascus	34.5624
+BR	excellent	-38.94722	28 Dec 2015	America/Bahia	-15.675
+GB	excellent	-3.05	2020/01/12	Europe/London	53.81667
+US	maintenance	-97.92977	12 May 2021	America/Chicago	38.06084
+IN	excellent	77.70636	2015/11/24	Asia/Kolkata	28.98002
+US	good	-76.43941	2017-07-21	America/New_York	39.33427
+MY	good	102.3278	09/27/2022, 00:00:00	Asia/Kuala_Lumpur	2.2139
+US	excellent	-77.96389	2022-09-25	America/New_York	39.45621
+US	excellent	-71.29144	06/21/2024, 00:00:00	America/New_York	41.54566
+RU	good	65.27258	2021/12/12	Asia/Yekaterinburg	58.04254
+FR	good	5.55575	2025-06-13	Europe/Paris	46.67535
+IN	excellent	75.96976	29 Apr 2024	Asia/Kolkata	15.73628
+CN	maintenance	126.28333	2022/03/13	Asia/Shanghai	45.35
+DE	good	10.98461	2021/11/07	Europe/Berlin	48.35693
+CA	good	-60.1831	16 Dec 2015	America/Glace_Bay	46.1351
+HN	acceptable	-86.57415	14 Nov 2015	America/Tegucigalpa	15.48131
+DE	good	11.32903	2022/05/16	Europe/Berlin	50.9803
+AF	good	65.93249	2025-01-02	Asia/Kabul	36.21544
+TH	good	104.64992	03/30/2018, 00:00:00	Asia/Bangkok	14.64056
+DE	excellent	9.17702	2021/03/21	Europe/Berlin	48.78232
+AZ	good	45.36561	2020/03/19	Asia/Baku	41.09246
+DE	acceptable	13.32127	2018/08/01	Europe/Berlin	52.59319
+US	good	-97.90308	2021-07-18	America/Chicago	31.12406
+EG	good	31.4976	01/24/2024, 00:00:00	Africa/Cairo	26.67319
+US	excellent	-93.75018	10/02/2020, 00:00:00	America/Chicago	32.52515
+TN	excellent	10.03478	06/03/2021, 00:00:00	Africa/Tunis	37.16911
+PE	acceptable	-73.25383	10/20/2023, 00:00:00	America/Lima	-3.74912
+CN	excellent	117.33333	12/22/2021, 00:00:00	Asia/Shanghai	34.85
+ID	acceptable	99.1625	2016/11/29	Asia/Jakarta	3.3285
+ES	good	-0.76773	2023-11-27	Europe/Madrid	38.38479
+CD	excellent	29.47306	21 Jan 2016	Africa/Lubumbashi	0.49113
+PH	good	121.06761	2022-04-20	Asia/Manila	12.35275
+IT	maintenance	8.88104	2020/02/10	Europe/Rome	45.79377
+CZ	excellent	14.418540	2025/04/20	Europe/Prague	50.073658
+RU	good	30.38167	2022-09-28	Europe/Moscow	59.80917
+IN	excellent	86.68363	09/14/2020, 00:00:00	Asia/Kolkata	23.49668
+TZ	acceptable	38.01667	2023-04-04	Africa/Dar_es_Salaam	-5.41667
+VE	good	-70.20749	07 Aug 2017	America/Caracas	8.62261
+IN	maintenance	72.85107	05 Oct 2019	Asia/Kolkata	19.30157
+CA	acceptable	-73.81669	11/28/2020, 00:00:00	America/Toronto	45.44868
+CN	good	117.33333	2023-09-12	Asia/Shanghai	34.85
+RU	good	56.36091	25 Jul 2025	Asia/Yekaterinburg	51.78771
+IN	good	74.3092	05/03/2020, 00:00:00	Asia/Kolkata	33.37526
+ID	good	106.92667	2015-11-09	Asia/Jakarta	-6.91806
+SE	acceptable	17.10558	2022-06-08	Europe/Stockholm	61.72744
+CZ	good	12.87117	2019/11/23	Europe/Prague	50.23271
+DE	excellent	7.973	28 Apr 2024	Europe/Berlin	51.168
+DE	excellent	8.70745	11/17/2015, 00:00:00	Europe/Berlin	49.03685
+IR	excellent	51.0193	07/07/2025, 00:00:00	Asia/Tehran	35.6803
+CA	excellent	-119.48568	2020/06/26	America/Vancouver	49.88307
+GB	acceptable	-1.5443	2019/09/16	Europe/London	50.75767
+CO	excellent	-77.03116	2024/05/08	America/Bogota	3.8801
+MA	acceptable	-6.00137	2021-02-19	Africa/Casablanca	33.42585
+IR	good	47.3799	2025/02/01	Asia/Tehran	33.14447
+US	good	-94.41551	2022/04/05	America/Chicago	39.09112
+PH	excellent	122.9666	2020/03/30	Asia/Manila	10.7375
+IN	acceptable	85.83334	2016/07/19	Asia/Kolkata	20.88197
+US	good	-118.25508	08/28/2025, 00:00:00	America/Los_Angeles	34.14251
+US	good	-99.73314	01/07/2024, 00:00:00	America/Chicago	32.44874
+CN	good	112.9	2016/10/15	Asia/Shanghai	27.85
+ID	good	98.6738	11 Dec 2019	Asia/Jakarta	3.7278
+ZA	good	30.79165	2021/07/28	Africa/Johannesburg	-27.76952
+MK	excellent	21.32778	07/31/2024, 00:00:00	Europe/Skopje	42
+CA	good	-73.58248	2022/05/01	America/Toronto	45.40008
+US	excellent	-97.54667	2024-10-03	America/Chicago	30.5427
+CN	good	105.89333	2024/11/29	Asia/Shanghai	34.56861
+PL	excellent	18.34717	10 Aug 2022	Europe/Warsaw	54.60528
+US	acceptable	-81.38758	2016-06-10	America/New_York	30.17746
+IT	good	12.84052	2017/10/16	Europe/Rome	45.78071
+CO	good	-75.87877	01/30/2019, 00:00:00	America/Bogota	5.6561
+US	good	-87.65644	2016-04-10	America/Chicago	41.80753
+BG	good	27.25	2019-02-05	Europe/Sofia	42.7
+US	excellent	-96.67834	2017/11/14	America/Chicago	34.77453
+MT	good	14.51472	2017/07/01	Europe/Malta	35.89972
+DE	acceptable	8.70745	10/02/2018, 00:00:00	Europe/Berlin	49.03685
+FI	excellent	24.14662	11/13/2024, 00:00:00	Europe/Helsinki	65.84811
+ES	good	-5.55835	03/11/2025, 00:00:00	Europe/Madrid	42.64685
+BR	excellent	-48.62789	2022/08/14	America/Sao_Paulo	-17.74431
+TH	good	99.95469	2021/01/24	Asia/Bangkok	13.51825
+ID	good	98.6738	04/05/2023, 00:00:00	Asia/Jakarta	3.7278
+IT	good	14.72443	2023-12-29	Europe/Rome	36.92574
+DE	acceptable	13.31783	07/14/2023, 00:00:00	Europe/Berlin	52.61131
+CA	good	-73.75335	2019-02-09	America/Toronto	45.4473
+ME	good	18.84	2016/06/29	Europe/Podgorica	42.28639
+FR	good	4.8951	2025/08/27	Europe/Paris	44.92801
+GB	maintenance	-0.76667	12/02/2020, 00:00:00	Europe/London	53.38333
+EG	acceptable	29.91582	07/12/2016, 00:00:00	Africa/Cairo	31.20176
+CH	acceptable	6.10237	2018/04/07	Europe/Zurich	46.18396
+IN	excellent	77.9129	2020-10-06	Asia/Kolkata	25.6439
+AR	excellent	-59.13316	27 Oct 2024	America/Argentina/Buenos_Aires	-37.32167
+XK	good	20.89389	21 Sep 2022	Europe/Belgrade	42.62833
+GH	good	-2.31938	2019/05/18	Africa/Accra	6.46346
+DE	good	10.30215	30 Jan 2021	Europe/Berlin	53.94313
+IN	excellent	77.70636	2021/12/21	Asia/Kolkata	28.98002
+RW	excellent	30.4347	2025-07-01	Africa/Kigali	-1.9487
+MM	excellent	98.50893	2020-07-10	Asia/Yangon	16.68911
+NL	good	5.51978	2022/06/13	Europe/Amsterdam	51.44889
+DZ	acceptable	4.85668	2023-08-15	Africa/Algiers	36.27462
+LR	excellent	-8.53778	2016-03-13	Africa/Monrovia	7.57944
+CZ	good	16.606836	2025/02/13	Europe/Prague	49.195061
+CN	good	113.13148	03/27/2017, 00:00:00	Asia/Shanghai	23.02677
+UA	good	38.15035	25 Dec 2016	Europe/Zaporozhye	49.41029
+US	good	-120.00865	01/25/2024, 00:00:00	America/Los_Angeles	46.32374
+US	excellent	-122.40433	2016/07/31	America/Los_Angeles	37.71715
+PH	excellent	120.97844	25 May 2020	Asia/Manila	14.8361
+RU	good	40.17171	2017-11-09	Europe/Moscow	58.1908
+GB	good	-0.74934	16 Dec 2023	Europe/London	51.62907
+IR	excellent	51.49621	20 Dec 2023	Asia/Tehran	36.64852
+BR	acceptable	-52.35558	06 Apr 2019	America/Cuiaba	-14.66463
+CN	good	120.74792	2025/02/14	Asia/Shanghai	41.09822
+GB	excellent	-1.29772	02/12/2016, 00:00:00	Europe/London	50.76306
+IQ	excellent	44.02488	2022/01/07	Asia/Baghdad	32.61603
+FR	excellent	2.18967	2025-06-02	Europe/Paris	48.8765
+SY	good	36.7138	2024/12/11	Asia/Damascus	35.95664
+ES	good	-1.86343	20 Jun 2017	Europe/Madrid	38.10558
+ZA	good	30.79165	2017-03-26	Africa/Johannesburg	-27.76952
+US	excellent	-80.22588	09/29/2023, 00:00:00	America/New_York	26.2173
+LY	excellent	20.22625	10/23/2024, 00:00:00	Africa/Tripoli	30.75545
+PH	acceptable	122.9666	21 Jun 2017	Asia/Manila	10.7375
+IN	good	77.54372	2019-02-03	Asia/Kolkata	10.12268
+RU	good	133.42825	05/08/2022, 00:00:00	Asia/Vladivostok	45.47885
+DE	acceptable	8.86704	2017/03/19	Europe/Berlin	50.23805
+IN	good	71.21169	2016-04-16	Asia/Kolkata	21.59983
+US	good	-121.74052	2022-11-23	America/Los_Angeles	38.54491
+BG	excellent	23.225	2018/06/27	Europe/Sofia	43.4125
+RU	good	34.34691	10/18/2019, 00:00:00	Europe/Moscow	61.78491
+BR	excellent	-35.03333	01 Apr 2024	America/Recife	-8.28333
+US	excellent	-75.23266	2023-01-24	America/New_York	43.1009
+CR	good	-85.43772	18 Aug 2025	America/Costa_Rica	10.63504
+IT	good	9.40531	2018/10/26	Europe/Rome	45.53069
+CO	good	-77.03116	05/10/2018, 00:00:00	America/Bogota	3.8801
+SL	good	-13.2356	14 Apr 2023	Africa/Freetown	8.48714
+CZ	good	17.250879	2019/09/30	Europe/Prague	49.593777
+HK	good	114.10479	09/15/2021, 00:00:00	Asia/Hong_Kong	22.37066
+BR	good	-34.88111	11/19/2015, 00:00:00	America/Recife	-8.05389
+JP	good	139.07204	2017-12-03	Asia/Tokyo	36.24624
+RU	good	37.92792	25 Aug 2021	Europe/Moscow	53.93361
+CN	good	117.33333	2018-08-15	Asia/Shanghai	34.85
+FR	maintenance	2.18967	03/24/2019, 00:00:00	Europe/Paris	48.8765
+JP	excellent	137.23333	2025-02-25	Asia/Tokyo	35.8
+BR	excellent	-47.1725	2016/08/28	America/Sao_Paulo	-22.57306
+LY	good	20.22625	18 Apr 2020	Africa/Tripoli	30.75545
+BG	good	24.71204	11/07/2019, 00:00:00	Europe/Sofia	41.57439
+MX	good	-102.04897	03/18/2017, 00:00:00	America/Mexico_City	19.64745
+US	excellent	-81.77285	10 Jul 2020	America/New_York	28.54944
+NL	good	4.47124	12/25/2024, 00:00:00	Europe/Amsterdam	51.95838
+FR	good	5.16108	2021/04/12	Europe/Paris	48.77275
+CN	good	117.4831	2019-07-22	Asia/Shanghai	27.34089
+RU	acceptable	39.8302	02/09/2022, 00:00:00	Europe/Moscow	64.5635
+US	good	-83.2321	2016-01-04	America/New_York	33.08014
+PH	excellent	121.06761	06/03/2021, 00:00:00	Asia/Manila	12.35275
+GA	good	13.58357	06/14/2018, 00:00:00	Africa/Libreville	-1.63333
+AU	good	150.99292	2024-09-26	Australia/Sydney	-33.75881
+BW	maintenance	27.46153	2024/02/02	Africa/Gaborone	-21.44236
+NZ	good	171.25364	02/08/2024, 00:00:00	Pacific/Auckland	-44.39672
+ES	excellent	-1.86343	05/02/2018, 00:00:00	Europe/Madrid	38.10558
+US	good	-73.78458	2020-08-16	America/New_York	41.0051
+TJ	good	69.01354	09/14/2024, 00:00:00	Asia/Dushanbe	38.55632
+CZ	good	15.268654	2016/11/29	Europe/Prague	49.952431
+ES	excellent	3.1631	2021/04/04	Europe/Madrid	41.91738
+MK	acceptable	20.91361	28 Mar 2016	Europe/Skopje	41.92361
+US	excellent	-95.63079	2023/05/09	America/Chicago	31.76212
+CN	good	120.14278	2024-12-06	Asia/Shanghai	32.50611
+CG	acceptable	15.28318	02/16/2019, 00:00:00	Africa/Brazzaville	-4.26613
+DE	excellent	8.63333	2019/02/26	Europe/Berlin	52.2
+TZ	excellent	33	2023/11/12	Africa/Dar_es_Salaam	-2.68333
+SY	excellent	36.7138	2025-08-16	Asia/Damascus	35.95664
+RU	good	34.33825	2021/03/06	Europe/Moscow	53.59782
+US	excellent	-123.02621	18 Mar 2022	America/Los_Angeles	44.99012
+HK	good	114.10479	2016-08-05	Asia/Hong_Kong	22.37066
+US	good	-96.67834	18 Apr 2024	America/Chicago	34.77453
+NA	good	16.91667	2016/10/27	Africa/Windhoek	-21.98333
+MX	good	-98.11889	23 Aug 2018	America/Mexico_City	19.04222
+JP	acceptable	137.5	2020/08/17	Asia/Tokyo	34.9
+ID	acceptable	106.92667	11 Feb 2022	Asia/Jakarta	-6.91806
+US	maintenance	-117.70755	2022/01/02	America/Los_Angeles	33.52253
+IN	good	79.5286	05 Sep 2022	Asia/Kolkata	29.22254
+US	excellent	-91.77127	2016/04/03	America/Chicago	37.95143
+FR	excellent	-0.59543	2021-10-20	Europe/Paris	44.80477
+FR	acceptable	2.18967	09 Jul 2017	Europe/Paris	48.8765
+IL	acceptable	34.86563	07/20/2020, 00:00:00	Asia/Jerusalem	31.92923
+EG	excellent	31.4976	2021-01-15	Africa/Cairo	26.67319
+NO	good	16.54165	25 Nov 2020	Europe/Oslo	68.79833
+CN	acceptable	123.50266	2025/04/30	Asia/Shanghai	41.94175
+SO	good	43.38531	09/26/2017, 00:00:00	Africa/Mogadishu	9.89206
+AZ	excellent	48.87498	2019/04/29	Asia/Baku	38.45598
+BR	excellent	-53.13722	08/12/2024, 00:00:00	America/Sao_Paulo	-22.92306
+US	excellent	-93.08883	02/12/2025, 00:00:00	America/Chicago	45.16024
+JP	good	138.89585	03/27/2022, 00:00:00	Asia/Tokyo	36.33011
+MZ	maintenance	35.34722	04/27/2021, 00:00:00	Africa/Maputo	-23.85972
+IN	maintenance	86.59509	07/19/2021, 00:00:00	Asia/Kolkata	26.11527
+ID	acceptable	106.92667	09 Aug 2019	Asia/Jakarta	-6.91806
+GE	excellent	41.77921	2017/01/11	Asia/Tbilisi	41.82143
+CN	excellent	130.57211	2021/03/30	Asia/Shanghai	45.75279
+AR	good	-58.70072	01 Dec 2022	America/Argentina/Buenos_Aires	-34.74785
+CZ	excellent	16.606836	07/22/2018, 00:00:00	Europe/Prague	49.195061
+MW	good	34.4587	02 Sep 2017	Africa/Blantyre	-13.7804
+TH	acceptable	104.1451	01/23/2019, 00:00:00	Asia/Bangkok	15.79408
+ZA	excellent	30.79165	05/18/2017, 00:00:00	Africa/Johannesburg	-27.76952
+DO	good	-71.10077	2025/05/22	America/Santo_Domingo	18.20854
+CR	good	-84.13722	11 Mar 2017	America/Costa_Rica	9.92787
+RU	acceptable	35.90057	04/09/2020, 00:00:00	Europe/Moscow	56.85836
+PH	acceptable	120.5875	05 Dec 2024	Asia/Manila	16.455
+TR	excellent	34.37389	2025-09-07	Europe/Istanbul	40.1675
+HT	acceptable	-72.09391	06/09/2021, 00:00:00	America/Port-au-Prince	18.65297
+BR	good	-42.19667	2015-10-27	America/Sao_Paulo	-21.41222
+KZ	excellent	65.50917	15 Dec 2017	Asia/Qyzylorda	44.85278
+PH	excellent	123.33471	2022-02-03	Asia/Manila	8.56697
+CO	excellent	-77.03116	2020-09-03	America/Bogota	3.8801
+JP	good	136.61667	2015/09/25	Asia/Tokyo	36.53333
+RS	acceptable	22.53083	2019-04-27	Europe/Belgrade	44.22639
+HR	good	16.43915	03/12/2022, 00:00:00	Europe/Zagreb	43.50891
+US	good	-122.39168	2017-11-17	America/Los_Angeles	40.58654
+PK	good	72.54566	09/20/2017, 00:00:00	Asia/Karachi	29.69221
+GT	good	-91.11667	17 Feb 2016	America/Guatemala	14.93333
+FR	maintenance	2.18967	2025/01/25	Europe/Paris	48.8765
+IN	good	76.32756	14 Nov 2016	Asia/Kolkata	9.57046
+IT	maintenance	15.00913	2019-12-07	Europe/Rome	37.51803
+CN	good	117.33333	28 Mar 2017	Asia/Shanghai	34.85
+DE	good	6.26667	2022/11/03	Europe/Berlin	51.21667
+IT	good	8.55552	2022/07/20	Europe/Rome	40.72586
+GB	good	-0.74934	2020-08-23	Europe/London	51.62907
+PH	maintenance	123.758	2019/05/06	Asia/Manila	10.20898
+US	acceptable	-119.01677	2021/07/14	America/Los_Angeles	36.06523
+EC	acceptable	-79.59415	18 Apr 2021	America/Guayaquil	-2.13404
+UA	good	36.25361	2016-06-28	Europe/Zaporozhye	47.48444
+CU	excellent	-77.43532	07/03/2016, 00:00:00	America/Havana	20.14298
+MG	excellent	46.58333	2023-10-03	Indian/Antananarivo	-21.15
+US	excellent	-122.86705	08/30/2019, 00:00:00	America/Los_Angeles	45.49428
+US	good	-122.86705	2022/03/02	America/Los_Angeles	45.49428
+NL	acceptable	5.2875	2024-08-16	Europe/Amsterdam	51.65333
+UY	maintenance	-56.52361	04/25/2022, 00:00:00	America/Montevideo	-33.38056
+GD	good	-61.62498	2019/02/13	America/Grenada	12.12278
+IN	good	73.85535	2018/07/04	Asia/Kolkata	18.51957
+JP	acceptable	135.31667	03 Nov 2020	Asia/Tokyo	34.25
+PL	excellent	19.27498	2021-07-17	Europe/Warsaw	50.20528
+PH	good	121.3152	09/08/2024, 00:00:00	Asia/Manila	14.14989
+BR	excellent	-39.25	10 Jun 2016	America/Bahia	-12.91667
+TR	good	40.74357	2017-01-07	Europe/Istanbul	37.31309
+TR	excellent	29.26639	2019/07/05	Europe/Istanbul	37.58105
+SK	excellent	17.8031	21 May 2017	Europe/Bratislava	48.43174
+US	good	-90.10674	2023/04/18	America/Chicago	29.84576
+IT	good	9.29109	2020/04/24	Europe/Rome	45.39402
+US	good	-81.79819	05 Feb 2022	America/New_York	41.48199
+US	good	-94.41551	10/02/2017, 00:00:00	America/Chicago	39.09112
+BJ	excellent	2.59753	2016/03/27	Africa/Porto-Novo	8.88649
+AU	good	153.10236	2018/07/19	Australia/Brisbane	-27.50578
+RU	excellent	36.73307	03 Dec 2022	Europe/Moscow	55.38752
+LT	excellent	24.75	10/10/2021, 00:00:00	Europe/Vilnius	55.25
+TH	acceptable	101.18445	01/23/2017, 00:00:00	Asia/Bangkok	13.44581
+FR	acceptable	5.16108	2021-11-02	Europe/Paris	48.77275
+PL	good	18.30056	2021/08/21	Europe/Warsaw	50.5107
+ES	maintenance	2.35739	10/06/2016, 00:00:00	Europe/Madrid	41.63976
+ES	acceptable	-1.86343	2024/10/23	Europe/Madrid	38.10558
+IN	good	75.35927	16 Feb 2018	Asia/Kolkata	12.04161
+GB	good	-2.12139	06/01/2023, 00:00:00	Europe/London	52.48173
+TH	good	99.96667	25 May 2022	Asia/Bangkok	8.43333
+CN	excellent	111.50861	19 Dec 2016	Asia/Shanghai	32.54278
+FR	excellent	1.00288	2021/04/03	Europe/Paris	49.28669
+UA	excellent	26.97253	09 Feb 2022	Europe/Kyiv	49.65186
+DZ	acceptable	3.47717	12/08/2016, 00:00:00	Africa/Algiers	36.76639
+CU	good	-82.4017	11 Jun 2023	America/Havana	23.0072
+IN	good	72.93924	16 Jan 2021	Asia/Kolkata	18.87813
+DE	excellent	13.10984	2024/12/16	Europe/Berlin	51.30001
+DE	good	8.91229	2017-02-23	Europe/Berlin	49.13645
+DE	good	10.5511	02/23/2025, 00:00:00	Europe/Berlin	52.47774
+DE	maintenance	11.18709	15 Aug 2019	Europe/Berlin	48.73218
+PS	good	35.23388	05 Mar 2016	Asia/Hebron	31.78336
+TR	excellent	37.3825	02/09/2023, 00:00:00	Europe/Istanbul	37.05944
+US	excellent	-73.47429	2022-10-25	America/New_York	40.68066
+DE	good	8.61839	07 Aug 2019	Europe/Berlin	49.68369
+DE	acceptable	8.96317	06/23/2022, 00:00:00	Europe/Berlin	48.35149
+NL	excellent	6.76111	2020-08-20	Europe/Amsterdam	53.16167
+PK	good	74.12286	22 May 2023	Asia/Karachi	30.76468
+ID	good	109.3243	21 Feb 2020	Asia/Jakarta	-7.0981
+IN	good	74.85849	05/03/2022, 00:00:00	Asia/Kolkata	31.28092
+BR	good	-51.50361	08/05/2017, 00:00:00	America/Sao_Paulo	-29.2975
+AR	good	-58.70072	09/04/2019, 00:00:00	America/Argentina/Buenos_Aires	-34.74785
+GB	acceptable	-2.52398	02/20/2021, 00:00:00	Europe/London	53.19146
+AU	acceptable	145.06667	2025-04-10	Australia/Melbourne	-37.88333
+CO	acceptable	-74.26419	2021-12-17	America/Bogota	4.73245
+US	good	-116.56346	2016/06/28	America/Boise	43.54072
+IN	good	77.24779	2022-01-30	Asia/Kolkata	10.58806
+IN	good	77.40858	2019-09-19	Asia/Kolkata	24.05979
+JP	good	144.09638	01/21/2024, 00:00:00	Asia/Tokyo	43.82634
+US	good	-116.21677	06/26/2020, 00:00:00	America/Los_Angeles	33.7207
+ES	excellent	-4.10734	02/05/2019, 00:00:00	Europe/Madrid	38.68712
+AR	acceptable	-58.70072	10 Aug 2019	America/Argentina/Buenos_Aires	-34.74785
+PH	good	122.9666	2018-02-01	Asia/Manila	10.7375
+BR	acceptable	-46.99583	2025/08/22	America/Sao_Paulo	-22.97056
+IT	good	17.80774	13 Feb 2021	Europe/Rome	40.55851
+KR	excellent	127.08472	2015/11/07	Asia/Seoul	36.20389
+HN	excellent	-86.57415	2017-01-02	America/Tegucigalpa	15.48131
+BR	good	-48.52333	2019-05-15	America/Belem	-0.71667
+US	good	-83.2321	2022/01/02	America/New_York	33.08014
+BR	excellent	-52.51028	2020-03-15	America/Sao_Paulo	-28.81833
+IN	acceptable	78.14797	2024-03-31	Asia/Kolkata	15.45144
+SO	excellent	42.54536	08/18/2023, 00:00:00	Africa/Mogadishu	-0.35817
+PK	good	71.52847	2020-07-13	Asia/Karachi	32.57756
+US	good	-91.73625	17 Sep 2016	America/Chicago	35.25064
+IN	acceptable	73.7553	2020/04/01	Asia/Kolkata	15.5439
+US	good	-88.31476	05/23/2025, 00:00:00	America/Chicago	36.61033
+AT	good	16.4	2021/01/07	Europe/Vienna	48.25
+US	acceptable	-121.75689	12 Jan 2017	America/Los_Angeles	36.91023
+FR	excellent	-0.45877	2024/01/09	Europe/Paris	46.32313
+US	excellent	-69.96533	2017-11-27	America/New_York	43.91452
+US	good	-71.08977	02 Jan 2016	America/New_York	41.9001
+JP	acceptable	136.84186	04/28/2023, 00:00:00	Asia/Tokyo	34.4833
+MN	excellent	106.88324	27 Oct 2023	Asia/Ulaanbaatar	47.90771
+ID	excellent	109.3243	2023/11/16	Asia/Jakarta	-7.0981
+NG	good	12.19458	2020/07/16	Africa/Lagos	10.61285
+BR	good	-48.62789	2019-01-09	America/Sao_Paulo	-17.74431
+TH	good	101.18445	2023/09/17	Asia/Bangkok	13.44581
+IN	good	85.37752	07 Jan 2017	Asia/Kolkata	22.10194
+US	excellent	-98.15529	2018-01-06	America/Chicago	26.18924
+ES	acceptable	-6.03731	08/31/2016, 00:00:00	Europe/Madrid	37.35813
+DE	good	7.2278	2021-05-23	Europe/Berlin	50.64336
+VU	excellent	168.31366	29 Jun 2023	Pacific/Efate	-17.73648
+RU	excellent	65.27258	01/08/2016, 00:00:00	Asia/Yekaterinburg	58.04254
+US	acceptable	-117.79394	2024-12-14	America/Los_Angeles	33.76446
+US	good	-71.06616	2019-06-13	America/New_York	42.4251
+RU	acceptable	37.92792	2016-02-26	Europe/Moscow	53.93361
+US	maintenance	-86.78777	2016-11-01	America/Chicago	33.44872
+RU	acceptable	38.12408	04/29/2023, 00:00:00	Europe/Moscow	53.77166
+ID	good	109.3243	2023-05-09	Asia/Jakarta	-7.0981
+MX	good	-100.88023	08/28/2016, 00:00:00	America/Mexico_City	20.21322
+CN	good	122.08333	09/06/2019, 00:00:00	Asia/Shanghai	46.08333
+GN	excellent	-13.68778	2022/02/20	Africa/Conakry	9.535
+MX	good	-101.2591	2019-08-10	America/Mexico_City	21.01858
+US	good	-73.95958	05/27/2016, 00:00:00	America/New_York	40.57788
+PH	good	124.3697	2020-11-04	Asia/Manila	9.6531
+GB	good	-2.58736	02 Sep 2017	Europe/London	56.56317
+IN	good	78.40102	29 Jan 2018	Asia/Kolkata	27.9247
+JP	good	137.5	08 May 2017	Asia/Tokyo	34.9
+JP	good	139.55722	09 May 2018	Asia/Tokyo	36
+BR	good	-35.71667	09/23/2019, 00:00:00	America/Recife	-8.66667
+PA	good	-79.62603	03 Jul 2019	America/Panama	8.88988
+PK	acceptable	72.54064	04/18/2019, 00:00:00	Asia/Karachi	31.82539
+AR	good	-60.47389	2019/12/19	America/Argentina/Buenos_Aires	-34.64167
+GB	acceptable	-1.32471	08/22/2022, 00:00:00	Europe/London	51.40148
+JP	good	135.6	06/07/2024, 00:00:00	Asia/Tokyo	34.61667
+DE	good	6.74549	2021-09-19	Europe/Berlin	49.5099
+TH	excellent	103.65309	2019/02/09	Asia/Bangkok	16.0567
+BR	good	-45.94722	12/21/2022, 00:00:00	America/Sao_Paulo	-21.42917
+PK	acceptable	73.38333	2023-10-19	Asia/Karachi	31.71667
+US	acceptable	-93.263	2019-01-17	America/Chicago	45.0408
+ES	good	-15.58602	2019/11/30	Atlantic/Canary	27.76056
+US	good	-81.79819	2017-07-25	America/New_York	41.48199
+DE	good	9.22796	01 Oct 2015	Europe/Berlin	48.46458
+GB	good	1.15597	04/19/2016, 00:00:00	Europe/London	51.78967
+IR	excellent	51.0193	29 Nov 2024	Asia/Tehran	35.6803
+US	excellent	-88.3162	20 Apr 2018	America/Chicago	42.24113
+ZA	good	30.79165	2025-03-20	Africa/Johannesburg	-27.76952
+PK	excellent	68.49143	2016/11/05	Asia/Karachi	25.80565
+VE	good	-62.64102	20 Jun 2024	America/Caracas	8.35122
+FR	excellent	2.12213	2019-08-26	Europe/Paris	48.8222
+RU	excellent	46.10925	05 Dec 2020	Europe/Moscow	43.35071
+AR	maintenance	-68.3	07/15/2020, 00:00:00	America/Argentina/Ushuaia	-54.8
+MX	excellent	-93.11308	2015/10/15	America/Mexico_City	16.75973
+CN	maintenance	112.73333	12/28/2024, 00:00:00	Asia/Shanghai	38.40917
+SO	excellent	43.38531	2016-12-13	Africa/Mogadishu	9.89206
+BR	acceptable	-44.31389	2017/10/17	America/Sao_Paulo	-19.7625
+DO	excellent	-71.10077	06/13/2021, 00:00:00	America/Santo_Domingo	18.20854
+US	maintenance	-74.15987	07/20/2023, 00:00:00	America/New_York	40.82232
+DZ	good	4.62744	18 Apr 2018	Africa/Algiers	36.06386
+CZ	good	15.268654	02/02/2018, 00:00:00	Europe/Prague	49.952431
+CZ	maintenance	14.418540	2022/02/13	Europe/Prague	50.073658
+DZ	good	3.47717	2016/12/03	Africa/Algiers	36.76639
+GB	excellent	-0.33525	30 Jun 2025	Europe/London	53.7446
+PK	acceptable	72.54566	24 Dec 2019	Asia/Karachi	29.69221
+FR	excellent	4.86667	05/18/2024, 00:00:00	Europe/Paris	45.51667
+JP	good	136.13108	2021-07-02	Asia/Tokyo	34.75856
+US	excellent	-88.81395	2018-07-20	America/Chicago	35.61452
+AT	good	15.46667	10/30/2021, 00:00:00	Europe/Vienna	47.05
+US	good	-117.79394	09/19/2021, 00:00:00	America/Los_Angeles	33.76446
+GB	good	-1.48119	2023-11-06	Europe/London	53.0233
+RU	good	83.62389	2019/05/09	Asia/Barnaul	53.30972
+US	excellent	-95.30106	07/05/2016, 00:00:00	America/Chicago	32.35126
+IN	good	75.11937	2023/06/15	Asia/Kolkata	20.88098
+BR	acceptable	-45.94722	02/16/2018, 00:00:00	America/Sao_Paulo	-21.42917
+DE	good	7.2278	09/09/2019, 00:00:00	Europe/Berlin	50.64336
+CZ	acceptable	15.454273	2019/10/21	Europe/Prague	49.183239
+US	excellent	-71.29144	2019-08-16	America/New_York	41.54566
+CO	excellent	-75.69947	2022/04/20	America/Bogota	8.79577
+AF	excellent	65.93249	01/04/2017, 00:00:00	Asia/Kabul	36.21544
+CO	excellent	-75.69947	2023/03/11	America/Bogota	8.79577
+CZ	acceptable	15.006139	2021-11-11	Europe/Prague	49.144482
+US	acceptable	-85.76942	02/22/2023, 00:00:00	America/Indiana/Indianapolis	39.78504
+IR	good	51.67462	10/18/2019, 00:00:00	Asia/Tehran	32.65246
+PH	good	123.33471	28 Dec 2015	Asia/Manila	8.56697
+PH	excellent	121.06761	2021/01/16	Asia/Manila	12.35275
+PH	excellent	124.84472	2018-12-20	Asia/Manila	10.13361
+KZ	good	84.87144	2017/01/23	Asia/Almaty	47.46657
+YE	good	46.83187	08/14/2020, 00:00:00	Asia/Aden	14.53767
+US	acceptable	-73.89125	09/12/2024, 00:00:00	America/New_York	40.67705
+PH	good	122.8637	2016-01-28	Asia/Manila	9.3337
+PK	good	70.96699	2023/08/28	Asia/Karachi	30.46907
+DE	excellent	9.47629	02/14/2022, 00:00:00	Europe/Berlin	53.59337
+AU	good	146.05093	12/07/2020, 00:00:00	Australia/Sydney	-34.28853
+RU	good	37.92792	17 Mar 2024	Europe/Moscow	53.93361
+DE	good	7.02238	2017/04/15	Europe/Berlin	52.21099
+US	acceptable	-94.41551	2021/09/20	America/Chicago	39.09112
+JP	good	135.31667	11/17/2024, 00:00:00	Asia/Tokyo	34.25
+GB	good	-2.98333	28 Jun 2018	Europe/London	53.83333
+ID	acceptable	106.85417	2020-01-19	Asia/Jakarta	-6.48167
+CR	maintenance	-85.43772	2024-04-08	America/Costa_Rica	10.63504
+US	excellent	-102.36764	18 Sep 2020	America/Chicago	31.84568
+TT	good	-61.51889	2019-03-12	America/Port_of_Spain	10.66668
+IN	good	79.41727	2020/02/03	Asia/Kolkata	12.25282
+EE	good	28.19028	2016-05-17	Europe/Tallinn	59.37722
+PR	good	-67.15407	11/16/2021, 00:00:00	America/Puerto_Rico	18.42745
+US	acceptable	-82.35176	2022/05/12	America/New_York	27.71809
+KR	good	126.835	12/27/2017, 00:00:00	Asia/Seoul	37.65639
+IN	good	77.5609	08/21/2018, 00:00:00	Asia/Kolkata	11.00599
+NG	good	3.39467	2020/11/25	Africa/Lagos	6.45407
+IN	good	75.35927	2016-03-02	Asia/Kolkata	12.04161
+MM	excellent	97.01124	2025/04/11	Asia/Yangon	17.30858
+UZ	maintenance	67.84222	2016/05/20	Asia/Samarkand	40.11583
+FI	excellent	24.14662	2018-11-10	Europe/Helsinki	65.84811
+AU	acceptable	151.08057	06/17/2019, 00:00:00	Australia/Sydney	-33.79176
+RU	good	33.72798	05 Feb 2025	Europe/Moscow	53.53395
+BE	good	4.21372	2020-12-25	Europe/Brussels	51.12794
+PK	acceptable	71.52847	12 Jul 2016	Asia/Karachi	32.57756
+FR	good	2.45012	04 Sep 2025	Europe/Paris	48.90982
+PE	good	-73.25383	03/25/2018, 00:00:00	America/Lima	-3.74912
+BR	good	-43.80139	12/06/2016, 00:00:00	America/Sao_Paulo	-20.25333
+MG	excellent	48.41667	2024/07/05	Indian/Antananarivo	-17.83333
+BR	acceptable	-42.29444	01/14/2018, 00:00:00	America/Fortaleza	-4.24444
+PH	good	123.62494	13 Aug 2016	Asia/Manila	12.37169
+UA	good	36.25361	2018/09/14	Europe/Zaporozhye	47.48444
+US	good	-83.2321	2023/10/22	America/New_York	33.08014
+MX	excellent	-89.66123	2016-08-04	America/Merida	21.28306
+IR	acceptable	47.3799	12/12/2022, 00:00:00	Asia/Tehran	33.14447
+NG	good	8.2926	30 Jul 2022	Africa/Lagos	9.58126
+IN	acceptable	78.95693	2017-08-22	Asia/Kolkata	29.21399
+SO	excellent	43.38531	2021-10-24	Africa/Mogadishu	9.89206
+BR	excellent	-37.93278	12/09/2015, 00:00:00	America/Bahia	-11.48472
+TH	excellent	99.95469	2021-03-20	Asia/Bangkok	13.51825
+RE	good	55.4504	2025-06-05	Indian/Reunion	-20.88231
+GB	good	1.15597	2016-09-27	Europe/London	51.78967
+US	good	-91.73625	03/31/2023, 00:00:00	America/Chicago	35.25064
+PE	excellent	-76.70944	2021/12/13	America/Lima	-11.94306
+CD	good	15.16554	2023-04-27	Africa/Kinshasa	-4.5833
+ES	acceptable	-1.86343	2017/02/13	Europe/Madrid	38.10558
+ZA	excellent	29.00974	2023/10/11	Africa/Johannesburg	-24.19436
+TH	excellent	103.65309	2019-09-11	Asia/Bangkok	16.0567
+UZ	good	72.34424	2020/09/04	Asia/Tashkent	40.78206
+GB	excellent	-0.36053	2018/05/17	Europe/London	51.64316
+GM	excellent	-15.6	03/25/2025, 00:00:00	Africa/Banjul	13.56667
+IN	good	77.40858	2023-03-17	Asia/Kolkata	24.05979
+SA	good	49.62251	16 Apr 2020	Asia/Riyadh	27.0174
+IT	good	15.00913	06/10/2024, 00:00:00	Europe/Rome	37.51803
+MX	good	-103.42897	2016-06-07	America/Mexico_City	20.28527
+US	acceptable	-73.47429	2016-06-26	America/New_York	40.68066
+DE	acceptable	11.34046	01/22/2017, 00:00:00	Europe/Berlin	50.72043
+JP	excellent	137.02166	2016/11/13	Asia/Tokyo	35.48199
+US	good	-93.08883	2019/11/16	America/Chicago	45.16024
+AU	good	145.13643	2020/12/03	Australia/Melbourne	-38.16604
+US	excellent	-120.43572	24 Aug 2023	America/Los_Angeles	34.95303
+GB	good	-2.68758	12 Nov 2015	Europe/London	53.69786
+IN	good	77.23826	27 Apr 2017	Asia/Kolkata	11.50526
+DE	good	8.70745	2020-10-20	Europe/Berlin	49.03685
+TH	acceptable	99.95469	28 Aug 2017	Asia/Bangkok	13.51825
+BR	good	-44.31389	2019/06/08	America/Sao_Paulo	-19.7625
+IT	good	8.55552	2020/11/14	Europe/Rome	40.72586
+IT	acceptable	15.00913	2024/10/08	Europe/Rome	37.51803
+IN	maintenance	83.97573	2020-10-29	Asia/Kolkata	21.46527
+NE	good	9.15013	12 Feb 2016	Africa/Niamey	13.70727
+PK	good	74.12286	07/04/2021, 00:00:00	Asia/Karachi	30.76468
+AT	acceptable	16.4	2022-10-15	Europe/Vienna	48.25
+GB	good	-0.74934	04/17/2023, 00:00:00	Europe/London	51.62907
+AU	good	146.05093	2020-05-05	Australia/Sydney	-34.28853
+PR	good	-66.8499	07/11/2019, 00:00:00	America/Puerto_Rico	18.03496
+DE	good	8.4493	06 May 2017	Europe/Berlin	50.09019
+NE	excellent	9.15013	2024/08/10	Africa/Niamey	13.70727
+TL	good	125.21972	15 Apr 2024	Asia/Dili	-8.99167
+FI	excellent	24.14662	2025-05-06	Europe/Helsinki	65.84811
+PT	good	-25.66689	2020/04/21	Atlantic/Azores	37.74615
+FR	good	1.00288	05/20/2021, 00:00:00	Europe/Paris	49.28669
+PK	acceptable	68.11759	23 Nov 2022	Asia/Karachi	26.9423
+BR	acceptable	-37.65	05/08/2018, 00:00:00	America/Maceio	-10.91722
+IT	excellent	13.39954	2019/03/19	Europe/Rome	43.62558
+PK	excellent	73.38333	31 Mar 2022	Asia/Karachi	31.71667
+US	acceptable	-82.32483	06 Jun 2016	America/New_York	29.65163
+MY	excellent	116.10146	25 May 2020	Asia/Kuching	5.90702
+US	acceptable	-73.78458	08/21/2016, 00:00:00	America/New_York	41.0051
+DE	acceptable	13.10984	2022-06-28	Europe/Berlin	51.30001
+PK	good	75.06583	2021-08-02	Asia/Karachi	32.17629
+RU	good	33.2525	11/12/2021, 00:00:00	Europe/Moscow	57.97472
+PK	excellent	68.88871	2022/12/16	Asia/Karachi	25.95533
+AU	good	151.08057	2024-11-09	Australia/Sydney	-33.79176
+RU	acceptable	43.63417	09/01/2024, 00:00:00	Europe/Moscow	43.96222
+US	good	-117.14392	12/05/2015, 00:00:00	America/Los_Angeles	32.9156
+US	acceptable	-74.01042	2016/10/10	America/New_York	41.50343
+IN	excellent	77.9129	12/04/2016, 00:00:00	Asia/Kolkata	25.6439
+GB	excellent	-0.76667	09/12/2022, 00:00:00	Europe/London	53.38333
+BR	good	-42.29444	2022-09-05	America/Fortaleza	-4.24444
+JP	good	137.36215	2024-02-21	Asia/Tokyo	36.75965
+RU	acceptable	37.38115	26 May 2016	Europe/Moscow	55.63711
+GH	good	-1.4001	02/25/2021, 00:00:00	Africa/Accra	7.06273
+ID	good	116.82887	2022-01-08	Asia/Makassar	-1.26753
+US	excellent	-87.71255	22 Aug 2020	America/Chicago	41.84364
+US	good	-76.88442	02/13/2021, 00:00:00	America/New_York	40.2737
+IT	good	14.30935	2017-04-14	Europe/Rome	40.92298
+PE	good	-69.08333	2022-12-27	America/Lima	-16.25
+CZ	excellent	12.87117	03/15/2025, 00:00:00	Europe/Prague	50.23271
+XK	excellent	20.89389	2025/05/06	Europe/Belgrade	42.62833
+US	excellent	-73.99681	2023/09/22	America/New_York	40.94065
+JP	maintenance	142.45778	2020/10/20	Asia/Tokyo	44.35056
+US	good	-117.71978	2021/05/31	America/Los_Angeles	34.09668
+DE	good	6.8625	2020-11-15	Europe/Berlin	51.47805
+RU	excellent	57.3552	11 Jun 2016	Asia/Yekaterinburg	51.4781
+CN	excellent	112.73333	05/25/2022, 00:00:00	Asia/Shanghai	38.40917
+IT	good	12.70038	03/26/2017, 00:00:00	Europe/Rome	45.9836
+UA	good	25.34244	2016/06/25	Europe/Kyiv	50.75932
+PH	good	124.3697	11/06/2016, 00:00:00	Asia/Manila	9.6531
+LY	good	10.18003	12/16/2017, 00:00:00	Africa/Tripoli	24.96334
+RU	excellent	39.85331	09/19/2024, 00:00:00	Europe/Moscow	57.30185
+US	maintenance	-87.71255	03/10/2020, 00:00:00	America/Chicago	41.84364
+JP	acceptable	136.51667	2020/10/30	Asia/Tokyo	35
+RU	acceptable	38.12408	2025-03-17	Europe/Moscow	53.77166
+FR	excellent	4.8951	2020/06/22	Europe/Paris	44.92801
+IT	acceptable	12.70038	27 May 2020	Europe/Rome	45.9836
+US	excellent	-83.2321	2018/05/13	America/New_York	33.08014
+IN	good	76.03889	01/28/2023, 00:00:00	Asia/Kolkata	18.18158
+SV	acceptable	-89.10944	10/30/2017, 00:00:00	America/El_Salvador	13.70167
+ES	acceptable	-1.86343	31 Oct 2015	Europe/Madrid	38.10558
+US	good	-87.66561	2017/09/28	America/Chicago	41.8542
+AU	acceptable	151.08057	2025-07-29	Australia/Sydney	-33.79176
+US	excellent	-87.93341	10/27/2024, 00:00:00	America/Chicago	42.55308
+BR	excellent	-37.93278	14 Apr 2023	America/Bahia	-11.48472
+DE	good	8.91229	2025/05/21	Europe/Berlin	49.13645
+GB	good	-2.58736	2021/06/08	Europe/London	56.56317
+AU	good	115.88782	2015-11-28	Australia/Perth	-32.05251
+IN	excellent	88.1453	08/25/2024, 00:00:00	Asia/Kolkata	22.4711
+MY	good	101.02083	2025-02-02	Asia/Kuala_Lumpur	4.02219
+ES	good	2.35739	2019/03/08	Europe/Madrid	41.63976
+NL	excellent	5.23333	10/14/2019, 00:00:00	Europe/Amsterdam	52.09
+DE	excellent	13.32127	2024-12-08	Europe/Berlin	52.59319
+NG	good	5.06258	2017/04/13	Africa/Lagos	7.50251
+DE	maintenance	9.20427	2024/12/13	Europe/Berlin	48.49144
+JP	excellent	139.55722	09/12/2022, 00:00:00	Asia/Tokyo	36
+DE	good	7.11393	21 Apr 2021	Europe/Berlin	51.08468
+UG	good	30.98551	2023/05/16	Africa/Kampala	2.41669
+ID	excellent	112.01667	10/30/2022, 00:00:00	Asia/Jakarta	-7.81667
+IN	excellent	77.656	08 Feb 2023	Asia/Kolkata	28.71271
+ES	excellent	-4.83076	11/28/2016, 00:00:00	Europe/Madrid	39.96348
+AR	good	-58.70072	2019-07-05	America/Argentina/Buenos_Aires	-34.74785
+IT	good	7.60872	2024-12-16	Europe/Rome	43.78956
+MA	good	-6.00137	19 May 2019	Africa/Casablanca	33.42585
+NG	good	6.83042	26 Apr 2016	Africa/Lagos	6.15038
+AZ	excellent	48.87498	2015-12-25	Asia/Baku	38.45598
+NL	good	6.92917	02/08/2024, 00:00:00	Europe/Amsterdam	52.31333
+IN	good	75.96976	21 Oct 2022	Asia/Kolkata	15.73628
+GB	excellent	-2.1875	2021/12/23	Europe/London	51.26
+IN	excellent	75.92694	2017-11-17	Asia/Kolkata	14.46693
+CZ	good	13.63617	31 Jan 2024	Europe/Prague	50.50301
+BR	excellent	-42.98194	20 Jan 2019	America/Sao_Paulo	-22.53722
+US	excellent	-71.05977	2022/11/02	America/New_York	42.35843
+CA	good	-119.48568	2018/04/20	America/Vancouver	49.88307
+DE	acceptable	8.64409	2023/01/18	Europe/Berlin	48.07667
+RU	excellent	51.3452	2024-11-02	Europe/Samara	53.37596
+IT	good	13.44275	2024-07-18	Europe/Rome	38.07789
+ES	good	3.1631	06/06/2018, 00:00:00	Europe/Madrid	41.91738
+JP	excellent	129.96972	2019-03-03	Asia/Tokyo	33.4425
+DE	good	6.8625	12 Nov 2020	Europe/Berlin	51.47805
+GB	good	-4.21376	2022-03-31	Europe/London	55.82885
+DE	maintenance	8.4493	2018/03/10	Europe/Berlin	50.09019
+DE	good	8.64409	07/24/2018, 00:00:00	Europe/Berlin	48.07667
+ID	good	112.23109	18 Feb 2017	Asia/Jakarta	-7.57897
+IN	excellent	78.27539	2020-05-03	Asia/Kolkata	12.95629
+ID	acceptable	112.01667	29 Jun 2020	Asia/Jakarta	-7.81667
+CU	good	-77.43532	2024/08/04	America/Havana	20.14298
+FI	good	24.95034	2017-11-19	Europe/Helsinki	60.18427
+KZ	excellent	84.87144	11/13/2020, 00:00:00	Asia/Almaty	47.46657
+CO	acceptable	-77.03116	06/20/2019, 00:00:00	America/Bogota	3.8801
+IN	good	85.94001	2019/01/01	Asia/Kolkata	25.49043
+VE	good	-68.30472	04 Jun 2018	America/Caracas	9.91861
+ID	good	101.44167	2023-12-29	Asia/Jakarta	0.51667
+PK	good	68.49143	2020/06/06	Asia/Karachi	25.80565
+PG	good	144.23058	01 Jan 2022	Pacific/Port_Moresby	-5.85746
+BR	maintenance	-49.27306	2020/10/04	America/Sao_Paulo	-25.42778
+RU	good	40.17171	2016/12/17	Europe/Moscow	58.1908
+US	excellent	-81.77285	08/09/2022, 00:00:00	America/New_York	28.54944
+IN	excellent	75.35927	11/15/2016, 00:00:00	Asia/Kolkata	12.04161
+DE	maintenance	9.5586	2016/10/20	Europe/Berlin	54.52156
+CA	good	-73.58248	2017/01/04	America/Toronto	45.40008
+IN	acceptable	74.4818	2022-12-29	Asia/Kolkata	30.21121
+IT	good	14.43865	2023-09-14	Europe/Rome	40.87329
+CO	excellent	-73.26022	2018/04/19	America/Bogota	6.46838
+US	excellent	-81.38758	2023-03-30	America/New_York	30.17746
+IN	excellent	77.656	26 May 2016	Asia/Kolkata	28.71271
+GB	good	-0.29825	01/25/2023, 00:00:00	Europe/London	51.39148
+PL	good	17.4674	06/04/2025, 00:00:00	Europe/Warsaw	50.86079
+UA	excellent	38.15035	2016/01/15	Europe/Zaporozhye	49.41029
+CO	acceptable	-72.47417	2018/07/29	America/Bogota	7.83389
+JP	excellent	137.23333	05 Oct 2022	Asia/Tokyo	35.8
+IN	excellent	78.15794	2019-10-23	Asia/Kolkata	12.1277
+ES	excellent	-4.10734	2018/06/18	Europe/Madrid	38.68712
+CN	maintenance	86.00214	09/28/2024, 00:00:00	Asia/Urumqi	46.51872
+PK	good	75.06583	15 Feb 2023	Asia/Karachi	32.17629
+NA	excellent	16.91667	2024/02/19	Africa/Windhoek	-21.98333
+NL	good	6.61944	2025/08/17	Europe/Amsterdam	52.57583
+RU	excellent	43.67663	2020-10-14	Europe/Moscow	53.53041
+US	good	-120.45794	2025-01-25	America/Los_Angeles	34.63915
+FR	excellent	-0.45877	08/09/2019, 00:00:00	Europe/Paris	46.32313
+CN	excellent	120.33063	19 Aug 2024	Asia/Shanghai	37.65181
+ES	good	3.1631	2016-09-09	Europe/Madrid	41.91738
+CN	good	122.22833	06 Sep 2020	Asia/Shanghai	40.66482
+ID	excellent	107.60389	2017-02-10	Asia/Jakarta	-7.01833
+IN	excellent	86.68363	2020-05-04	Asia/Kolkata	23.49668
+CO	good	-72.47417	16 Dec 2015	America/Bogota	7.83389
+RU	excellent	83.62389	10 Mar 2024	Asia/Barnaul	53.30972
+NE	acceptable	9.15013	05/13/2020, 00:00:00	Africa/Niamey	13.70727
+JP	maintenance	140.11667	04/06/2016, 00:00:00	Asia/Tokyo	37.56667
+PK	acceptable	68.88871	02/10/2016, 00:00:00	Asia/Karachi	25.95533
+NI	good	-86.19903	12 Jan 2016	America/Managua	11.84962
+JP	good	136.13108	04 Apr 2019	Asia/Tokyo	34.75856
+CN	excellent	111.50861	12/16/2019, 00:00:00	Asia/Shanghai	32.54278
