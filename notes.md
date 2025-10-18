@@ -35,9 +35,11 @@
 #### Nejednotné formáty
 - `revision` v tabulke station
 - `registration` v tabulke pacient
+- mozno zobrat do uvahy aj stpce s indexom napr. SpO₂ lebo ten dolny index hadze ako chybu ?
 
 #### Chybajcúce a vychylené hodnoty
 - vychylene hodnoty zistime z EDA (asi cez boxploty)
+- pri `Motion/Activity index` nie je v meta-dátach uvedený rozsah (`Value Range = NaN`)
 
 ### Kontrola správnosti v dátach
 - Abnormálne hodnoty sú fyziologicky nemožné – napríklad SpO₂ nad 100 %, srdcová frekvencia 800 bpm alebo teplota 0°C
