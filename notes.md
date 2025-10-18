@@ -1,4 +1,4 @@
-# 1. Základný opis dát spolu s ich charakteristikami
+# 1.1 Základný opis dát spolu s ich charakteristikami
 - `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
 ### Atributy s priamym vplyvom:
 | Atribút                                | Prečo ovplyvňuje SpO₂ (oximetriu)                                                            |
@@ -40,3 +40,16 @@
 - vychylene hodnoty zistime z EDA (asi cez boxploty)
 
 ### Kontrola správnosti v dátach
+- Abnormálne hodnoty sú fyziologicky nemožné – napríklad SpO₂ nad 100 %, srdcová frekvencia 800 bpm alebo teplota 0°C
+- Nelogické dátové vzťahy sú také, kde jednotlivé čísla vyzerajú normálne, ale spolu nedávajú medicínsky zmysel – napríklad vysoká FiO₂ a zároveň extrémne nízka SpO₂
+
+### Vychýlené hodnoty
+Outlier = hodnota, ktorá je extrémne odlišná od ostatných.
+
+1. Odstránenie vychýlených alebo odľahlých pozorovaní 
+   - chyba merania, hodnota je fyziologicky nemožná
+2. Nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (napr. 5%, 95%)
+   - „extrémne hodnoty zrežem na rozumné limity“ 
+   - Napr. nastavíš:
+     - všetko pod 5. percentil → na hodnotu 5. percentilu 
+     - všetko nad 95. percentil → na hodnotu 95. percentilu
