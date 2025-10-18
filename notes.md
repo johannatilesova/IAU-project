@@ -1,6 +1,6 @@
 # 1.1 Základný opis dát spolu s ich charakteristikami
 - `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
-### Atributy s priamym vplyvom:
+## Atributy s priamym vplyvom:
 | Atribút                                | Prečo ovplyvňuje SpO₂ (oximetriu)                                                            |
 | -------------------------------------- | -------------------------------------------------------------------------------------------- |
 | **FiO₂** (Fraction of inspired oxygen) | Najsilnejší prediktor – ak pacient dýcha vyššiu frakciu kyslíka, saturácia rastie            |
@@ -11,7 +11,7 @@
 | **BP** (systolický/diastolický)        | Slabý perfúzny tlak = menej kyslíka v periférnych tkanivách                                  |
 | **PRV** / HR (heart rate)              | Hypoxia typicky mení srdcovú činnosť, taktiež PRV súvisí s autonómnou reguláciou okysličenia |
 
-### Atributy so sekundárnym vplyvom:
+## Atributy so sekundárnym vplyvom:
 | Atribút                           | Prečo môže súvisieť                                                                  |
 | --------------------------------- | ------------------------------------------------------------------------------------ |
 | **PI** (Perfusion index)          | Ak je perfúzia slabá → môže byť nepresný odhad SpO₂ alebo reálne znížené okysličenie |
@@ -25,7 +25,7 @@
 - zistit co je `ssn` v tabulke pacient
 - pozriet sa na `residence` v tabulke pacient - preco tam je tolko NaN
 
-### Prvotne problémy v dátach
+## Prvotne problémy v dátach
 #### Nevhodná štruktúra dát
 - `current_location` v tabulke pacient - rozdelit na dva stlpce
 
