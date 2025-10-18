@@ -1,24 +1,19 @@
 # 1.1 Základný opis dát spolu s ich charakteristikami
 - `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
-## Atributy s priamym vplyvom:
-| Atribút                                | Prečo ovplyvňuje SpO₂ (oximetriu)                                                            |
-| -------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **FiO₂** (Fraction of inspired oxygen) | Najsilnejší prediktor – ak pacient dýcha vyššiu frakciu kyslíka, saturácia rastie            |
-| **RR** (Respiratory rate)              | Rýchlosť dýchania priamo ovplyvňuje výmenu plynov v pľúcach                                  |
-| **EtCO₂** (End-tidal CO₂)              | Je nepriamym ukazovateľom ventilácie – zlá ventilácia = CO₂ stúpa = klesá SpO₂               |
-| **Hb level** (hemoglobín)              | Saturácia je % obsadenia hemoglobínu → ak je hemoglobínu málo, prenášaný kyslík je nižší     |
-| **CO** (Cardiac output)                | Ovplyvňuje dodanie kyslíka do tkanív → nízky CO = zlé okysličenie                            |
-| **BP** (systolický/diastolický)        | Slabý perfúzny tlak = menej kyslíka v periférnych tkanivách                                  |
-| **PRV** / HR (heart rate)              | Hypoxia typicky mení srdcovú činnosť, taktiež PRV súvisí s autonómnou reguláciou okysličenia |
 
-## Atributy so sekundárnym vplyvom:
-| Atribút                           | Prečo môže súvisieť                                                                  |
-| --------------------------------- | ------------------------------------------------------------------------------------ |
-| **PI** (Perfusion index)          | Ak je perfúzia slabá → môže byť nepresný odhad SpO₂ alebo reálne znížené okysličenie |
-| **Skin temperature**              | Termoregulácia odhaľuje periférnu perfúziu, hypoxia znižuje teplotu periférií        |
-| **PVI** (Pleth Variability Index) | Odrazuje objemové zmeny počas dychu → môže identifikovať dýchacie nepravidelnosti    |
-| **Motion / activity index**       | Pohyb artefakty môžu krátkodobo meniť čítanie a presnosť snímky                      |
-| **Signal quality index**          | Pri nízkej kvalite signálu môžu byť SpO₂ hodnoty nepresné                            |
+### Top 10 atribútov
+| Atribút               | Co to znamená                                  |
+|-----------------------|------------------------------------------------|
+| PI (Perfusion Index)  | perfúzia / kvalita signálu                     |
+| Motion/Activity index | artefakty z pohybu                             |
+| Signal Quality Index  | kvalita merania                                |
+| Skin Temperature      | periférna perfúzia ovplyvňuje PPG              |
+| EtCO₂                 | stabilita dýchania                             |
+| RR                    | respiračná stabilita                           |
+| PRV                   | autonómny stav                                 |
+| BP                    | perfúzia                                       |
+| CO                    | celkové okysličenie systému                    |
+| FiO₂                  | nie priamy, ale prostredníctvom stavu pacienta |
 
 # 1.2 Identifikácia problémov, integrácia a čistenie dát
 
