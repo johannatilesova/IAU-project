@@ -14,7 +14,7 @@ Projekt sa zaoberá predikovaním závislých hodnôt premennej **oximetry (pred
 ## 1. fáza - prieskumná analýza
 ### 1.1 Základný opis dát spolu s ich charakteristikami
 EDA s vizualizáciou
-- [ ] Analýza štruktúr dát ako súbory (štruktúry a vzťahy, počet, typy, …), záznamy (štruktúry, počet záznamov, počet atribútov, typy, …)
+- [x] Analýza štruktúr dát ako súbory (štruktúry a vzťahy, počet, typy, …), záznamy (štruktúry, počet záznamov, počet atribútov, typy, …)
 - [ ] Analýza jednotlivých atribútov: pre zvolené významné atribúty (min 10) analyzujte ich distribúcie a základné deskriptívne štatistiky a či spĺňa predpísané podmienky a rozsah meraných hodnôt. 
 - [ ] Párová analýza dát: Identifikujte vzťahy a závislostí medzi dvojicami atribútov.
 - [ ] Párová analýza dát: Identifikujte závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
