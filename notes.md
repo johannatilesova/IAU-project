@@ -1,37 +1,27 @@
 # 1.1 Základný opis dát spolu s ich charakteristikami
 - `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
 - spraviť funkciu na top10 atribútov
+- v grafoch parovej analyzi farebne rozlisit a pridat legendu pre jednotlive boxploty
+- doplnit grafy distribucii (aspon pre nasich 10 atributov)
 
 ### Top 10 atribútov
 | Atribút               | Co to znamená                                  |
 |-----------------------|------------------------------------------------|
-| PI (Perfusion Index)  | perfúzia / kvalita signálu                     |
 | Motion/Activity index | artefakty z pohybu                             |
-| Signal Quality Index  | kvalita merania                                |
-| Skin Temperature      | periférna perfúzia ovplyvňuje PPG              |
 | EtCO₂                 | stabilita dýchania                             |
-| RR                    | respiračná stabilita                           |
 | PRV                   | autonómny stav                                 |
 | BP                    | perfúzia                                       |
+| PI (Perfusion Index)  | perfúzia / kvalita signálu                     |
+| Skin Temperature      | periférna perfúzia ovplyvňuje PPG              |
 | CO                    | celkové okysličenie systému                    |
+| Signal Quality Index  | kvalita merania                                |
+| RR                    | respiračná stabilita                           |
 | FiO₂                  | nie priamy, ale prostredníctvom stavu pacienta |
 
 # 1.2 Identifikácia problémov, integrácia a čistenie dát
 
-- zistit co je `ssn` v tabulke pacient
-- pozriet sa na `residence` v tabulke pacient - preco tam je tolko NaN
-
-## Prvotne problémy v dátach
-#### Nevhodná štruktúra dát
-- `current_location` v tabulke pacient - rozdelit na dva stlpce
-
-#### Duplicitné záznamy
-- pozriet pacienta (user)
-
 #### Nejednotné formáty
-- `revision` v tabulke station
-- `registration` v tabulke pacient
-- mozno zobrat do uvahy aj stpce s indexom napr. SpO₂ lebo ten dolny index hadze ako chybu ?
+- mozno zobrat do uvahy aj stpce s indexom napr. SpO₂ lebo ten dolny index nazvu stlpca hadze ako chybu ?
 
 #### Chybajcúce a vychylené hodnoty
 - vychylene hodnoty zistime z EDA (asi cez boxploty)
