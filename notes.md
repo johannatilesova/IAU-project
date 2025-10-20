@@ -21,23 +21,14 @@
 # 1.2 Identifikácia problémov, integrácia a čistenie dát
 
 #### Nejednotné formáty
-- mozno zobrat do uvahy aj stpce s indexom napr. SpO₂ lebo ten dolny index nazvu stlpca hadze ako chybu ?
+- mozno zobrat do uvahy aj stlpce s indexom napr. SpO₂ lebo ten dolny index nazvu stlpca hadze ako chybu ?
+  - premenujeme stlpce, nech sa lahsie pouzivaju v kode
 
 #### Chybajcúce a vychylené hodnoty
-- vychylene hodnoty zistime z EDA (asi cez boxploty)
+- ~~vychylene hodnoty zistime z EDA (asi cez boxploty)~~
+  - pomocou mojej funkcie :3
 - pri `Motion/Activity index` nie je v meta-dátach uvedený rozsah (`Value Range = NaN`)
 
 ### Kontrola správnosti v dátach
 - Abnormálne hodnoty sú fyziologicky nemožné – napríklad SpO₂ nad 100 %, srdcová frekvencia 800 bpm alebo teplota 0°C
 - Nelogické dátové vzťahy sú také, kde jednotlivé čísla vyzerajú normálne, ale spolu nedávajú medicínsky zmysel – napríklad vysoká FiO₂ a zároveň extrémne nízka SpO₂
-
-### Vychýlené hodnoty
-Outlier = hodnota, ktorá je extrémne odlišná od ostatných.
-
-1. Odstránenie vychýlených alebo odľahlých pozorovaní 
-   - chyba merania, hodnota je fyziologicky nemožná
-2. Nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (napr. 5%, 95%)
-   - „extrémne hodnoty zrežem na rozumné limity“ 
-   - Napr. nastavíš:
-     - všetko pod 5. percentil → na hodnotu 5. percentilu 
-     - všetko nad 95. percentil → na hodnotu 95. percentilu
