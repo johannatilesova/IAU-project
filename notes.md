@@ -1,5 +1,6 @@
 # 1.1 Základný opis dát spolu s ich charakteristikami
 - `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
+- spraviť funkciu na top10 atribútov
 
 ### Top 10 atribútov
 | Atribút               | Co to znamená                                  |
