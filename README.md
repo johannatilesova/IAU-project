@@ -21,8 +21,8 @@ Projekt sa zaoberá predikovaním závislých hodnôt premennej **oximetry (pred
 - [x] Dokumentujte Vaše prvotné zamyslenie k riešeniu zadania projektu, napr. sú niektoré atribúty medzi sebou závislé? od ktorých atribútov závisí predikovaná premenná? či je potrebné kombinovať záznamy z viacerých súborov? 
 
 ### 1.2 Identifikácia problémov, integrácia a čistenie dát
-- [ ] Identifikujte aj prvotne riešte problémy v dátach napr.: nevhodná štruktúra dát, duplicitné záznamy, ktoré môžu vznikať po určitých dátových transformáciach, nejednotné formáty, chýbajúce hodnoty, vychýlené hodnoty. V dátach sa môžu nachádzať aj iné, tu nevymenované problémy, resp. menej problémov ako bolo uvedených.
-- [ ] Kontrola správnosť v dátach 
+- [x] Identifikujte aj prvotne riešte problémy v dátach napr.: nevhodná štruktúra dát, duplicitné záznamy, ktoré môžu vznikať po určitých dátových transformáciach, nejednotné formáty, chýbajúce hodnoty, vychýlené hodnoty. V dátach sa môžu nachádzať aj iné, tu nevymenované problémy, resp. menej problémov ako bolo uvedených.
+- [x] Kontrola správnosť v dátach 
   - či obsahujú abnormálne hodnoty 
   - či obsahujú nelogické dátové vzťahy, ktoré sú následkom dátovej kolekcie a anotovania dát
 - [ ] Vychýlené hodnoty (outlier detection), vyskúšajte riešiť problém min. 2 technikami 
