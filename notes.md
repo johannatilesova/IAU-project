@@ -31,3 +31,7 @@
 ### Kontrola správnosti v dátach
 - Abnormálne hodnoty sú fyziologicky nemožné – napríklad SpO₂ nad 100 %, srdcová frekvencia 800 bpm alebo teplota 0°C
 - Nelogické dátové vzťahy sú také, kde jednotlivé čísla vyzerajú normálne, ale spolu nedávajú medicínsky zmysel – napríklad vysoká FiO₂ a zároveň extrémne nízka SpO₂
+
+## Poznamky z cvika
+~~- doplnit top 10 atributov do dokumentacie~~
+
