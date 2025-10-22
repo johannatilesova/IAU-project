@@ -1,7 +1,6 @@
 # 1.1 Základný opis dát spolu s ich charakteristikami
-- `isnull()` pre všetky tabuľky - počet null hodnôt v každom stĺpci
-- spraviť funkciu na top10 atribútov
-- v grafoch parovej analyzi farebne rozlisit a pridat legendu pre jednotlive boxploty
+- spraviť funkciu na top10 atribútov ?
+~~- v grafoch parovej analyzi farebne rozlisit a pridat legendu pre jednotlive boxploty~~
 - doplnit grafy distribucii (aspon pre nasich 10 atributov)
 
 ### Top 10 atribútov
