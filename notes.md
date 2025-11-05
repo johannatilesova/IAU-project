@@ -13,10 +13,13 @@
 | FiO₂                  | nie priamy, ale prostredníctvom stavu pacienta |
 
 ## Poznamky z cvika
-- !!!! premenovat stlpce a zbavit sa indexov v ich nazvoch
+- **!!!! premenovat stlpce a zbavit sa indexov v ich nazvoch !!!!**
 - spojit datasety ( len kvoli bodikom )
   - potom vymazat stlpce navyse
-- ulozit vysledok transformacie
+- ulozit vysledok transformacie vo formate .pickle
 - experimentovat s kombinaciou transformerov a scalerov v pipeline, vybrat najlepsiu kombinaciu
+- co najviac gausovka
+- feature selection na vybranie najvhodnejsich atributov
 
-
+-pre johannku ( chce to pozriet )
+  - nieco s feature importance pri stromoch ?
