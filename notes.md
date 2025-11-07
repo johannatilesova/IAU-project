@@ -13,12 +13,13 @@
 | FiO₂                  | nie priamy, ale prostredníctvom stavu pacienta |
 
 ## Poznamky z cvika
-- **!!!! premenovat stlpce a zbavit sa indexov v ich nazvoch !!!!**
-- spojit datasety ( len kvoli bodikom )
+- ~~**!!!! premenovat stlpce a zbavit sa indexov v ich nazvoch !!!!**~~
+- ~~spojit datasety ( len kvoli bodikom )~~
   - potom vymazat stlpce navyse
 - ulozit vysledok transformacie vo formate .pickle
 - experimentovat s kombinaciou transformerov a scalerov v pipeline, vybrat najlepsiu kombinaciu
 - co najviac gausovka
+  - -> quantile transformer robi riadne gausovky ( check 2.1C )
 - feature selection na vybranie najvhodnejsich atributov
 
 -pre johannku ( chce to pozriet )
